@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thoovaeje.wink-toolkit.com/sitemap.xml
